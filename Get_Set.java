@@ -1,6 +1,6 @@
 // O NOME DO ARQUIVO DEVE SER IGUAL AO NOME DA CLASSE PRINCIPAL (Usuario.java)
 public class Usuario {
-    private String nome; // ATRIBUTO PRIVADO: IMPEDE ACESSO OU MODIFICAÇÃO INDEVIDA.
+    private String nome; // ATRIBUTO NOME É PRIVADO: IMPEDE ACESSO OU MODIFICAÇÃO INDEVIDA.
 
     // MÉTODO GET
     public String getNome() {
